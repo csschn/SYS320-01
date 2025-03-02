@@ -158,7 +158,7 @@ while($operation){
     elseif($choice -eq 9){
         $days = Read-Host -Prompt "How many days would you like to check for?"
 
-        $failedLogins = getFailedLogins $days
+        $failedLogins = getFailedLogins 180
 
         $tenFailedLoginUsers = $failedLgoins | Group-Object User | Where-Object { $_.Count -gt 10}
 
