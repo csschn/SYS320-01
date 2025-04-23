@@ -1,0 +1,8 @@
+To- connor.schnackenberg@mymail.champlain.edu
+Subject- Failed Logins
+Apr 17 15:10:59 xubuntu xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=champuser
+Apr 17 15:11:07 xubuntu xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=champuser
+Apr 18 21:46:12 xubuntu xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=champuser
+Apr 18 21:46:24 xubuntu xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=champuser
+Apr 18 21:46:30 xubuntu xfce4-screensaver-dialog: pam_unix(xfce4-screensaver:auth): authentication failure; logname= uid=1000 euid=1000 tty=:0 ruser= rhost=  user=champuser
+Apr 18 22:02:20 xubuntu sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=champuser rhost=  user=champuser

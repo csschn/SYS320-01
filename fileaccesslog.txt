@@ -1,0 +1,14 @@
+To- connor.schnackenberg@mymail.champlain.edu
+Subject - userlogs access
+To- connor.schnackenberg@mymail.champlain.edu
+Subject - userlogs access
+Apr 23 12:27:01 xubuntu CRON[219708]: (champuser) CMD (/bin/bash -c "/home/champuser/SYS320-01/userlogs-1.bash")
+Apr 23 13:07:29 xubuntu incrond[189372]: access denied on /home/champuser/SYS320/userlogs-1.bash - events will be discarded silently
+Apr 23 13:16:00 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
+Apr 23 13:23:34 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
+Apr 23 13:24:31 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
+Apr 23 13:32:47 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
+Apr 23 13:34:24 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
+Apr 23 13:36:07 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
+Apr 23 13:36:15 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
+Apr 23 13:39:18 xubuntu incrond[189372]: PATH (/home/champuser/SYS320-01/userlogs-1.bash) FILE () EVENT (IN_ACCESS)
